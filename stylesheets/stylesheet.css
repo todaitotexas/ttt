@@ -242,6 +242,13 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
+#logo{
+  max-width: 450px;
+  margin: 0 auto;
+}
+#logo img{
+  width: 100%;
+}
 
 .section{
   margin: 50px auto;
