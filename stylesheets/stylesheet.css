@@ -258,3 +258,22 @@ a {
   line-height: 1.6;
   text-align: justify;
 }
+
+.past-team-wrapper{
+  display: flex;
+  align-items: unset;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+
+.past-team-title{
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.past-team-item{
+  max-width: 16%;
+}
