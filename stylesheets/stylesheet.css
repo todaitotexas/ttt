@@ -242,6 +242,16 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
+
+.page-header {
+  color: #fff;
+  text-align: center;
+  background: url(../images/bg.jpg);
+  background-position: 50% 50%;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
 #logo{
   max-width: 450px;
   margin: 0 auto;
